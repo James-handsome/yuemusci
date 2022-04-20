@@ -6,7 +6,7 @@ import { IconStyle } from "./assets/iconfont/iconfont";
 import store from "./store/index";
 import routes from "./routes";
 import { HashRouter } from "react-router-dom";
-import "./fix.css";
+import "./index.css";
 
 function App() {
   return (
