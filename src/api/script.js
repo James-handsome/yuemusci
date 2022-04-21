@@ -1,6 +1,6 @@
 const axios = require("axios");
 
-const baseUrl = 'http://47.105.150.105:4001';
+const baseUrl = 'http://api.yuemusic.top';
 
 // axios的实例及拦截器配置
 const axiosInstance = axios.create({
